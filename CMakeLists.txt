@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.25)
+cmake_minimum_required(VERSION 3.18)
 project(Test C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(main main.c)
+add_executable(HasInfluence main.c)
